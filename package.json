@@ -24,7 +24,7 @@
     "@google-cloud/storage": "^1.7.0",
     "@google-cloud/debug-agent": "2.4.0",
     "escape-html": "^1.0.3",
-    "pug": "2.0.3",
+    "pug": ">=3.0.1",
     "safe-buffer": "5.1.1",
     "child-process-promise": "^2.2.0",
     "firebase-admin": "~6.1.0",
